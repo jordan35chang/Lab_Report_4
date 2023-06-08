@@ -33,8 +33,7 @@ jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjlllllldwi index2<space><esc>:wq<enter
 ## Summary:
 The vim command opens up the file to edit, and the j moves the cursor down to the line of error, while l moves the cursor to the right to change index1 to index2. Pressing dw deletes the word the cursor is on, so in this case index1, and hitting i allows you to insert 'index2 '. The esc exits the insert command, and :wq saves and exits the file. 
 # Step 8:
-![Image](Step_8.png)   
-![Image](Step_8b.png)   
+![Image](Step_8.png)    
 ## Keys Pressed:
 ```
 <up><up><enter>
